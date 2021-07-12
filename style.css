@@ -1,0 +1,140 @@
+
+.button {
+  background-image: none;
+  font-size: 15px;
+  color:white;
+  border-radius: 2px;
+  background-color: #47423F;
+  border-color: transparent;  
+}
+
+.pd-15 {
+    padding: 15px;
+}
+.pd-20 {
+    padding: 20px;
+}
+.pd-30 {
+    padding:30px;
+}
+
+.mg-10 {
+    margin: 10px;
+}
+
+.mg_l-10 {
+    margin-left: 10px;
+}
+
+.mg_r-10 {
+    margin-right: 10px;
+}
+
+.mg_rtb-10_l-5 {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+
+    margin-left: 5px;
+}
+.mg_ltb-10_r-5 {
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+
+    margin-right: 5px;
+}
+
+.mg_t-30 {
+    margin-top: 30px;
+}
+.mg-20 {
+    margin: 20px;
+}
+
+.button:hover {
+    color: black;
+    background-color: #ffd600;
+}
+
+.label {
+    font-size: 20px; 
+}
+
+GtkFrame.frame_shadow {
+  border: 0px;
+  padding: 0px 4px 4px 0px;
+  border-radius: 16px;
+  background-color: #47423f;
+}
+
+.button_spalte {
+    margin: 50px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.info_spalte {
+    margin: 50px;
+    margin-top:100px;
+}
+
+/* Farben */
+.bg_white {
+    background-color: white;
+}
+
+.bg_black {
+    background-color: black;
+}
+
+.tx_white {
+    color: white;
+}
+
+.tx_black {
+    color: white;
+}
+/* Ende Farben */
+
+/* Border */
+
+.nonBorder {
+    border: 0px; 
+}
+
+/* Ende Border */
+
+.version_chooser {
+    margin: 20px;
+}
+
+
+/* Dialog Box */ 
+.dialog_title {
+    font-size: 30px;
+    margin-top: 40px;
+    margin-bottom: 10px;
+}
+
+.dialog_text {
+    font-size: 15px;
+}
+
+.dialog_button {
+    margin: 10px;
+}
+
+.dialog_divider {
+    padding: 1px;
+    border-radius: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+
+    margin-bottom: 60px;
+}
+
+/* Farben */ 
+.color-yellow {
+    background-color: #ffd600;
+}
